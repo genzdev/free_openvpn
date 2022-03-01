@@ -1,5 +1,5 @@
 region  = "ap-south-1"
-bucket  = "free-openvpn-state"
+bucket  = "free-prod-openvpn-state"
 key     = "terraform.tfstate"
 encrypt = true
 profile = "axdev"
